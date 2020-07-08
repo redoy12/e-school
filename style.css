@@ -42,6 +42,10 @@
     text-align: center;
     
 }
+.act{
+    color: #1E201E;
+    font-weight: 600;
+}
 .four-card img{
     width: 70px;
     height: 70px;
@@ -90,8 +94,11 @@
 }
 .last-step{
     background-color:#282531 ;
-    height: 500px;
+    height: 400px;
     color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+    
 }
 .millions{
     margin-top: 100px;
@@ -100,9 +107,10 @@
 }
 .course-twi{
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 30px;
 }
-.footer{
-    margin-top: 20px;
+.foot{
+    margin-top: 80px;
     color: white;
+    text-align: center;
 }
